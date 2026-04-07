@@ -1,0 +1,37 @@
+TrendPulse Analysis Report - 2026-04-07 14:48
+============================================================
+
+Total stories analyzed: 113
+
+Category Distribution:
+category
+other            22.12
+technology       22.12
+entertainment    22.12
+worldnews        15.04
+sports           10.62
+science           7.96
+
+Average Score by Category:
+category
+entertainment    157.44
+other            227.52
+science           93.67
+sports           198.83
+technology       363.40
+worldnews        174.94
+
+Top 10 Highest Scored Stories:
+                                                                          title      category  score  num_comments       author
+                         Sam Altman may control our future – can he be trusted?         other   1354           545    adrianhon
+Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw    technology   1091           828      firloop
+  Issue: Claude Code is unusable for complex engineering tasks with Feb updates    technology   1059           588 StanAngeloff
+     The threat is comfortable drift toward not understanding what you're doing     worldnews    960           603  zaikunzhang
+                                          Show HN: A game where you build a GPU    technology    951           185     Jaso1024
+                       Eight years of wanting, three months of building with AI    technology    928           289       brilee
+              Show HN: I built a tiny LLM to demystify how language models work    technology    868           128   armanified
+                               Steam on Linux Use Skyrocketed Above 5% in March        sports    782           366     hkmaxpro
+                                Show HN: I built a frontpage for personal blogs entertainment    779           194  ramkarthikk
+               Embarrassingly simple self-distillation improves code generation    technology    650           199       Anon84
+
+Score-Comments Correlation: 0.8659
